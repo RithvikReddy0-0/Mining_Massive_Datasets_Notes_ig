@@ -36,6 +36,6 @@ Class notes for **Mining of Massive Datasets (MMDS)**, written in Markdown. Each
 
 The [Class PPts/](Class%20PPts/) folder holds the original course material the notes were made from:
 
-- **Slides** — `1-Introduction.pptx`, `3-LSH.pptx`, `4-Streams1.pptx`, `4-Streams2.pptx`, `5-Linkanalysis1.pptx`, `5-Linkanalysis2.pptx`
+- **Slides** — `1-Introduction.pptx`, `2-MapReduce.pptx`, `3-LSH.pptx`, `4-Streams1.pptx`, `4-Streams2.pptx`, `5-Linkanalysis1.pptx`, `5-Linkanalysis2.pptx`
 - **Chapter handouts** — Applications of Set Similarity (Ch. 3), Stream Data Model (Ch. 4), Apriori (Ch. 6)
 - **Worked examples** — `LSH_Minhash_Complete_Example.docx`, `LinkSpam-MMDS-Exercises.docx`, `PageRankAlgorithm-Worked Example.pdf`

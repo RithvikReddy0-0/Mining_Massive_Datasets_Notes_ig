@@ -1,2 +1,5 @@
 # Office temporary/lock files
 ~$*
+
+# Unrelated local files
+Class PPts/Skylark Drones*.xlsx
