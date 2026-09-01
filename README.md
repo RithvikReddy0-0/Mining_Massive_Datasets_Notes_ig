@@ -39,3 +39,11 @@ The [Class PPts/](Class%20PPts/) folder holds the original course material the n
 - **Slides** — `1-Introduction.pptx`, `2-MapReduce.pptx`, `3-LSH.pptx`, `4-Streams1.pptx`, `4-Streams2.pptx`, `5-Linkanalysis1.pptx`, `5-Linkanalysis2.pptx`
 - **Chapter handouts** — Applications of Set Similarity (Ch. 3), Stream Data Model (Ch. 4), Apriori (Ch. 6)
 - **Worked examples** — `LSH_Minhash_Complete_Example.docx`, `LinkSpam-MMDS-Exercises.docx`, `PageRankAlgorithm-Worked Example.pdf`
+
+## Past Question Papers
+
+[MMDS_PYQS/MMDS/](MMDS_PYQS/MMDS/) contains nine previous-year question papers for **19CSE353** — useful for spotting which topics repeat and how questions are framed.
+
+## Handwritten Notes
+
+[sid mmds notes_Handwriten.pdf](sid%20mmds%20notes_Handwriten.pdf) — a full set of scanned handwritten notes covering the course, kept alongside the typed notes as an alternative pass over the same material.

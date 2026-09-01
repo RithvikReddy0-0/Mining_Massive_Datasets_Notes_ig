@@ -3,3 +3,7 @@
 
 # Unrelated local files
 Class PPts/Skylark Drones*.xlsx
+
+# macOS zip artifacts
+__MACOSX/
+.DS_Store
